@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     height: 100vh;
-    background: #673AB7;
+    background: #637DB2;
 }
 
 .signup {
@@ -33,9 +33,9 @@
 
 .signup button {
     font-size: 1rem;
-    color: white;
+    color: #B2A075;
     padding: 8px;
-    background-color: #009688;
+    background-color: #FFECC0;
     border: none;
     cursor: pointer;
     border-radius: 2px;
